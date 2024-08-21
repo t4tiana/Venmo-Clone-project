@@ -1,4 +1,5 @@
-# Venmo-Clone-project &emsp; _source code readily available upon request_
+# Venmo Clone project 
+### [_Source code readily available upon request_]
 
 This **capstone project** was created during Week 8 of 14 of my bootcamp to exhibit my knowledge of backend development for web applications. It demonstrates proficiency of the following concepts and technologies:
 - OOP principles
